@@ -1,0 +1,19 @@
+{
+  "name": "com.epam.dmytro_yeremenko.cdp.lecture10.task10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor protractor.conf.js -suite=test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-protractor": "^3.0.0",
+    "jasmine": "^2.5.2",
+    "jasmine-core": "2.3.0",
+    "protractor": "^4.0.14"
+  }
+}
